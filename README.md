@@ -68,5 +68,10 @@ Você pode usar um caderno físico ou um documento no Google Docs.
 - `Trimestre_1_Fundamentos`: Teoria básica e arquivos `.py` iniciais.
 - `Trimestre_2_Produtividade_Internet`: Exercícios de Office e script para gerar planilhas.
 - `Trimestre_3_Redes_Python`: Aulas avançadas de Lógica e Python.
+- `Conteudo_Extra`: **Projetos Práticos e Games!**
+    - 🎮 Simulador de Loja de Hardware
+    - 🧮 Calculadora de Bases (Binário/Hexa)
+    - 📊 Automação de Planilhas (Inventário de Jogos)
+    - 📓 Modelo de DevLog (Diário)
 
 **Bons estudos!**
