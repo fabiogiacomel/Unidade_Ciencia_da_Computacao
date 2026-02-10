@@ -36,30 +36,34 @@ Não precisa instalar nada no seu computador! Vamos usar o **Google Colab**, uma
 
 ---
 
-## 📓 Caderno de Campo (Diário de Bordo)
+## 📓 Caderno de Campo Digital (Diário de Bordo)
 
 Para fixar o aprendizado, cada aluno deve manter um **Caderno de Campo**.
-Ele serve para registrar suas descobertas, erros e acertos.
+A grande inovação aqui é usar o próprio **Google Colab** como seu caderno!
 
-### Como montar seu Caderno de Campo:
+O Colab permite misturar **Código** (Python) com **Texto** (Markdown).
 
-Você pode usar um caderno físico ou um documento no Google Docs.
+### Como montar seu Caderno no Colab:
 
-**Estrutura de cada aula:**
+1.  Crie um novo notebook chamado `Meu_Diario_de_Bordo.ipynb`.
+2.  Para cada aula, crie uma **Célula de Texto** e use a seguinte estrutura:
 
-1.  **Data e Título:**
-    > *Ex: 10/02/2026 - Aula 03: Sistema Binário*
+---
 
-2.  **Conceito Resumido:**
-    - Escreva com suas palavras o que aprendeu.
-    - *Ex: "Aprendi que binário só usa 0 e 1, e que 0 é desligado e 1 é ligado."*
+### **DATA: 10/02/2026 - TÍTULO DA AULA**
 
-3.  **Experimentos (Prints e Códigos):**
-    - Se você rodou um código no Colab, tire um **Print Screen** do resultado e cole no caderno.
-    - Se errou alguma coisa, anote o erro! *Ex: "Esqueci de fechar os parênteses e deu erro de sintaxe."*
+**1. O que aprendi hoje?**
+*(Escreva aqui um resumo. Ex: Aprendi que binário é 0 e 1...)*
 
-4.  **Resolução dos Exercícios:**
-    - Anote as respostas dos questionários das aulas.
+**2. Meus Experimentos**
+*(Logo abaixo, crie uma Célula de Código e teste o que aprendeu)*
+
+**3. Erros e Soluções**
+*(Se o código deu erro, anote aqui o que aconteceu e como arrumou)*
+
+---
+
+Dessa forma, seu caderno é **vivo** e **executável**!
 
 ---
 
