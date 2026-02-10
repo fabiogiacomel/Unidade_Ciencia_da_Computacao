@@ -33,3 +33,10 @@ O Python já "sabe" converter números. Ele tem funções mágicas:
 - Converta o número **255**.
 - Binário deve dar: `11111111`
 - Hexadecimal deve dar: `ff`
+
+---
+## 📓 Diário de Bordo
+Não esqueça de registrar seu aprendizado no **Google Colab**!
+1.  Crie uma nova célula de texto no seu `Meu_Diario_de_Bordo.ipynb`.
+2.  Anote o que aprendeu, cole seu código e o resultado.
+3.  Se teve erros, anote como resolveu!

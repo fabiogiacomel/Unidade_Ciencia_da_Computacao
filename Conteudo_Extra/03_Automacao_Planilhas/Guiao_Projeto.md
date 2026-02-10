@@ -34,3 +34,10 @@ while True:
         break
     # ... adicione na lista ...
 ```
+
+---
+## 📓 Diário de Bordo
+Não esqueça de registrar seu aprendizado no **Google Colab**!
+1.  Crie uma nova célula de texto no seu `Meu_Diario_de_Bordo.ipynb`.
+2.  Anote o que aprendeu, cole seu código e o resultado.
+3.  Se teve erros, anote como resolveu!

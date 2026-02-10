@@ -1,5 +1,8 @@
 # DevLog (Diário do Desenvolvedor) 📓
 
+> **DICA:** Prefira usar a versão digital no Google Colab!
+> Abra o arquivo `Template_Caderno_Campo.ipynb` para ter um caderno interativo.
+
 **Nome do Aluno:** __________________________________________________
 **Turma:** _______________
 
